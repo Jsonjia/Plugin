@@ -80,6 +80,5 @@ public class ProxyActivity extends Activity {
     @Override
     public Resources getResources() {
         return PluginManager.getInstance().getPluginResource();
-
     }
 }
