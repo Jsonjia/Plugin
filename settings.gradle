@@ -1,2 +1,4 @@
+include ':lib_plugin'
+include ':orderfood'
 include ':app'
 rootProject.name = "Plugin"
